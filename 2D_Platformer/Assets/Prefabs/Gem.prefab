@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8513258085543587442}
   - component: {fileID: 6850114669873627500}
   - component: {fileID: 7787968257487898010}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Gem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 8404704209484572651}
   - component: {fileID: 4471276132223074079}
   - component: {fileID: 4112376648928854448}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
